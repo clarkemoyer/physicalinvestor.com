@@ -7,7 +7,8 @@ export const metadata: Metadata = {
     default: 'Physical Investor | Coming Soon',
     template: '%s | Physical Investor',
   },
-  description: 'A future resource for tangible assets, disciplined investing, and practical financial resilience.',
+  description:
+    'A future resource for tangible assets, disciplined investing, and practical financial resilience.',
   robots: {
     index: true,
     follow: true,
@@ -20,12 +21,14 @@ export const metadata: Metadata = {
     url: 'https://physicalinvestor.com/',
     siteName: 'Physical Investor',
     title: 'Physical Investor | Coming Soon',
-    description: 'A future resource for tangible assets, disciplined investing, and practical financial resilience.',
+    description:
+      'A future resource for tangible assets, disciplined investing, and practical financial resilience.',
   },
   twitter: {
     card: 'summary',
     title: 'Physical Investor | Coming Soon',
-    description: 'A future resource for tangible assets, disciplined investing, and practical financial resilience.',
+    description:
+      'A future resource for tangible assets, disciplined investing, and practical financial resilience.',
   },
 }
 
